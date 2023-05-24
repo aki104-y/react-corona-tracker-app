@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-corona-tracker-app/static/css/main.f05a9990.css",
-    "main.js": "/react-corona-tracker-app/static/js/main.7a332fd0.js",
+    "main.js": "/react-corona-tracker-app/static/js/main.20d92366.js",
     "index.html": "/react-corona-tracker-app/index.html",
     "main.f05a9990.css.map": "/react-corona-tracker-app/static/css/main.f05a9990.css.map",
-    "main.7a332fd0.js.map": "/react-corona-tracker-app/static/js/main.7a332fd0.js.map"
+    "main.20d92366.js.map": "/react-corona-tracker-app/static/js/main.20d92366.js.map"
   },
   "entrypoints": [
     "static/css/main.f05a9990.css",
-    "static/js/main.7a332fd0.js"
+    "static/js/main.20d92366.js"
   ]
 }
